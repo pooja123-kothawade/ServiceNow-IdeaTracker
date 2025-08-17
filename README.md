@@ -38,9 +38,6 @@ It’s designed as a lightweight **Idea Management System** that can be extended
 ### Idea Form with Upvote Button
 
 
-
----
-
 ## 📂 
 ```
 
