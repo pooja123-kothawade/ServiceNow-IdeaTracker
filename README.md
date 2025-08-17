@@ -26,14 +26,16 @@ It’s designed as a lightweight **Idea Management System** that can be extended
 - **UI Components**: Custom tables, forms, list views  
 
 ---
-
+```
 ## 📸 Screenshots
 
 ### Submit Idea Form
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bbfc112f-a9e5-4e51-871f-e5dd0ee68966" />
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b30e6c91-059f-463f-851d-b1c65c0a095c" />
 
 ### All Ideas List
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/14ff868c-1dc1-46e8-9311-291802505a3d" />
 
 ### Idea Form with Upvote Button
 
