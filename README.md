@@ -64,7 +64,7 @@ It’s designed as a lightweight **Idea Management System** that can be extended
 
 ## 🔗 Links
 
-- **GitHub Repo**: [Idea Tracker]([https://github.com/pooja123-kothawade/ServiceNow-IdeaTracker])  
+- **GitHub Repo**: [Idea Tracker](https://github.com/pooja123-kothawade/ServiceNow-IdeaTracker)  
 
 ---
 
